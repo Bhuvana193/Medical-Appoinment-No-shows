@@ -8,3 +8,4 @@ Age column as been handled and removed the negative values.
 Appointment and scheduled day as been converted to standardized format.
 there is no null and error values found.
 No duplicates in the data set.
+Now that the  data is clean. 
